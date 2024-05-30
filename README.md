@@ -20,37 +20,37 @@ This portfolio website is designed to highlight my work and skills as a web deve
 
 ## Features
 
-- **Responsive Design:** The website is fully responsive and works on all devices, from desktop to mobile.
-- **Interactive Elements:** Includes interactive elements like animations and hover effects.
-- **Project Showcase:** A dedicated section to display my projects with descriptions, images, and links.
-- **Contact Form:** A contact form that allows visitors to get in touch with me directly from the website.
-- **Smooth Scrolling:** Smooth scrolling for a better user experience.
+- Responsive Design: The website is fully responsive and works on all devices, from desktop to mobile.
+- Interactive Elements: Includes interactive elements like animations and hover effects.
+- Project Showcase: A dedicated section to display my projects with descriptions, images, and links.
+- Contact Form: A contact form that allows visitors to get in touch with me directly from the website.
+- Smooth Scrolling: Smooth scrolling for a better user experience.
 
 ## Technologies Used
 
-- **HTML5:** For the structure and content of the website.
-- **CSS3:** For styling the website, including Flexbox and Grid for layout.
-- **JavaScript:** For adding interactivity and dynamic content.
-- **Font Awesome:** For using icons throughout the site.
-- **Google Fonts:** For custom fonts.
+- HTML5: For the structure and content of the website.
+- CSS3: For styling the website, including Flexbox and Grid for layout.
+- JavaScript: For adding interactivity and dynamic content.
+- Font Awesome: For using icons throughout the site.
+- Google Fonts: For custom fonts.
 
 ## Setup and Installation
 
 To get a local copy of the project up and running, follow these steps:
 
-1. **Clone the repository:**
+1. Clone the repository:
 
    ```sh
    git clone https://github.com/Yashaswini200/portpolio.git
    ```
 
-2. **Navigate to the project directory:**
+2. Navigate to the project directory:
 
    ```sh
    cd portpolio
    ```
 
-3. **Open the `index.html` file in your preferred web browser:**
+3. Open the `index.html` file in your preferred web browser:
 
    You can open the file directly in your browser or use a live server extension in your code editor for a better development experience.
 
@@ -58,10 +58,10 @@ To get a local copy of the project up and running, follow these steps:
 
 Once the project is set up, you can navigate through the different sections of the website:
 
-- **Home:** A brief introduction about myself.
-- **About:** Detailed information about my background and skills.
-- **Projects:** A showcase of my projects with descriptions and links to live demos and source code.
-- **Contact:** A form to get in touch with me.
+- Home: A brief introduction about myself.
+- About: Detailed information about my background and skills.
+- Projects: A showcase of my projects with descriptions and links to live demos and source code.
+- Contact: A form to get in touch with me.
 
 ## Folder Structure
 
@@ -69,13 +69,10 @@ Once the project is set up, you can navigate through the different sections of t
 portpolio/
 │
 ├── css/
-│   ├── main.css
-│   ├── reset.css
-│   └── responsive.css
+│   
 │
 ├── js/
-│   ├── main.js
-│   └── smooth-scroll.js
+│   
 │
 ├── images/
 │   ├── project1.png
